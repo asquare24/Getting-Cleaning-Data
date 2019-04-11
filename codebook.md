@@ -196,15 +196,3 @@ A tidy dataset was created to clean the variable names containing unwanted chara
 #### Write the final tidy dataset to tidydata.txt
 
 Use the write.table() to write the tidy data set to tidydata.txt.
-
-
-
-
-
-
-
-
-
-
-
-
